@@ -1,0 +1,29 @@
+{
+  "title": "Material demo",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/guides/composition/ButtonRouter.tsx",
+  "dependencies": {
+    "typescript": "latest",
+    "react-router-dom": "latest",
+    "react-router": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "@types/react-router-dom": "latest",
+    "@types/react-router": "latest",
+    "@types/react-dom": "latest",
+    "@types/react": "latest",
+    "@material-ui/types": "latest",
+    "@material-ui/core": "latest"
+  },
+  "name": "material-demo-forked",
+  "version": "0.0.0"
+}
